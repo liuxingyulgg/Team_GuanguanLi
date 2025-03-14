@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李冠冠"
+  name             : "Guanguan Li"
   pronouns         : # example: "she/her"  
-  bio              : "欢迎加入我们团队！"
+  bio              : "Welcome！"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
